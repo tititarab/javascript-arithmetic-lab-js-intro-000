@@ -24,7 +24,6 @@ function dec(n) {
 
 function makeInt(n) {
   return n
-  `makeInt('0x2328', 10)`
 
 }
 
