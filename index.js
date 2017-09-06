@@ -25,7 +25,7 @@ function dec(n) {
 function makeInt(n) {
   return n
 }
-'makeInt('0x2328', 10)'
+`makeInt('0x2328', 10)`
 
 function preserveDecimal(n) {
   return parseFloat('chocolate')
